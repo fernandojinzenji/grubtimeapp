@@ -1,16 +1,28 @@
-# grubtime
+Hackaton PoC - April 26th, 2019
 
-A new Flutter project.
+Team Members:
+Fernando Jinzenji
+Brandon McKay
 
-## Getting Started
+Feature Name:
+GrubTime app
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Describe what your feature is.
+Replace current lunch token process.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Why did you decide to work on this feature?
+I usually get myself forgetting about picking up lunch tokens every day. Having a mobile app to improve this process would make things much easier for all Tractionites (in my opinion).
+
+
+What impact will it have for our customers if put into production?
+Not for customers, but probably would make all Tractionites’ lifes better.
+
+
+What would still need to be done on your feature to get it into production?
+Check firebase permissions (free tier?)
+Add validations
+Change data structure for daily reset
+Admin mode
+Send app for review (App Store/Google Play)
